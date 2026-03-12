@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-class BookMyStayApp {
+class BookmystayApp {
     public static void main(String[] args) {
         BookingService bookingService = new BookingService();
         // Initialize inventory
